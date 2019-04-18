@@ -8,6 +8,6 @@ There is more explenation of strategies and methods used in the Jupyter Notebook
 
 The Final Accuracy Score is 72%
 
-##Datasets employed:   
+## Datasets employed:   
 [https://webrobots.io/kickstarter-datasets/](https://webrobots.io/kickstarter-datasets/)  
 [https://www.kaggle.com/kemical/kickstarter-projects](https://www.kaggle.com/kemical/kickstarter-projects)   
